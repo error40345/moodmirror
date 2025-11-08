@@ -156,22 +156,16 @@ EMOTION_KEYWORDS = {
 - `GET /` - Web interface
 - `POST /chat` - Send message, receive AI response
 
-## Security
+  Security
 
 - Never commit `.env` files
 - Rotate API keys regularly
 - Use environment variables for secrets
 - Keep dependencies updated
 
-## Contributing
 
-Contributions welcome! Please feel free to submit a Pull Request.
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Acknowledgments
+ Acknowledgments
 
 - Powered by Fireworks AI and Dobby-70B
 - ROMA framework for advanced reasoning
